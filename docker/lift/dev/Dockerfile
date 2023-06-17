@@ -1,4 +1,4 @@
-FROM java:8-jdk
+FROM java:8-jdk java:j11-jdk
 LABEL website = "http://www.lift-project.org"
 LABEL maintainer = "michel.steuwer@glasgow.ac.uk"
 
